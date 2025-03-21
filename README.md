@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliyahOrtiz
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ... At Lehman
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning At Lehman
 
 <!---
 EliyahOrtiz/EliyahOrtiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
